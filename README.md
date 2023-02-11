@@ -20,12 +20,10 @@
 
 [Miriam Gonzalez - Ingeniera software • Divulgadora de tecnología • Podcaster](https://miriamgonzalez.dev/)
 
----
 ## N
 
 [Núria Soriano - Front End Category Lead en Codely y amante de CSS, JavaScript y Vue.js](https://www.nuriasatorres.com/)
 
----
 <div align="center">
   <b>Si conoces a alguna mujer que admires en programación o algún tema relacionado con tecnología, no dudes en agregarla a esta lista.</b>
 </div>
