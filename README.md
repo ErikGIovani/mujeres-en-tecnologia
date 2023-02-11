@@ -1,7 +1,8 @@
-# Mujeres en Tecnología
-La lista para visibilizar a más mujeres creadoras de contenido o que se destaquen en cualquier rubro de la tecnología.
----
-Si conoces a alguna mujer que admires en programación o algún tema relacionado con tecnología, no dudes en agregarla a esta lista.
+<div align="center">
+  <img width="30%" src="./logo.png" />
+  <h1>Mujeres en Tecnología</h1>
+  <b>La lista para visibilizar a más mujeres creadoras de contenido o que se destaquen en cualquier rubro de la tecnología.</b>
+</div>
 
 ## C
 
@@ -25,3 +26,6 @@ Si conoces a alguna mujer que admires en programación o algún tema relacionado
 [Núria Soriano - Front End Category Lead en Codely y amante de CSS, JavaScript y Vue.js](https://www.nuriasatorres.com/)
 
 ---
+<div align="center">
+  <b>Si conoces a alguna mujer que admires en programación o algún tema relacionado con tecnología, no dudes en agregarla a esta lista.</b>
+</div>
