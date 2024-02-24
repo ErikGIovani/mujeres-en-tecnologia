@@ -20,6 +20,8 @@
 
 [Miriam Gonzalez - Ingeniera software • Divulgadora de tecnología • Podcaster](https://miriamgonzalez.dev/)
 
+[Maybemar Hernández - Ingeniera software • Divulgadora sobre tecnología • Educadora](https://maybemarhs.com/)
+
 ## N
 
 [Núria Soriano - Front End Category Lead en Codely y amante de CSS, JavaScript y Vue.js](https://www.nuriasatorres.com/)
