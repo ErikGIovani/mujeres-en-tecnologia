@@ -1,8 +1,11 @@
 <div align="center">
   <img width="30%" src="./logo.png" />
-  <h1>Mujeres en Tecnología</h1>
-  <b>La lista para visibilizar a más mujeres creadoras de contenido o que se destaquen en cualquier rubro de la tecnología.</b>
+  <h1>Women in Tech</h1>
+  <b>The list to give visibility to more women content creators or those who stand out in any field of technology.</b>
 </div>
+
+## Languages
+ [Español][ES]
 
 ## C
 
@@ -14,18 +17,19 @@
 
 ## L
 
-[Lea Verou - Miembro de la W3C y con casi veinte años de experiencia en diseño y desarrollo web.](https://lea.verou.me/)
+[Lea Verou - Member of the W3C and with almost twenty years of experience in web design and development.](https://lea.verou.me/)
 
 ## M
 
-[Miriam Gonzalez - Ingeniera software • Divulgadora de tecnología • Podcaster](https://miriamgonzalez.dev/)
+[Miriam Gonzalez - Software engineer • Technology communicator • Podcaster](https://miriamgonzalez.dev/)
 
-[Maybemar Hernández - Ingeniera software • Divulgadora sobre tecnología • Educadora](https://maybemarhs.com/)
+[Maybemar Hernández - Ingeniera software • Technology communicator • Educator](https://maybemarhs.com/)
 
 ## N
 
-[Núria Soriano - Front End Category Lead en Codely y amante de CSS, JavaScript y Vue.js](https://www.nuriasatorres.com/)
+[Núria Soriano - Front End Category Lead at Codely and lover of CSS, JavaScript and Vue.js](https://www.nuriasatorres.com/)
 
 <div align="center">
-  <b>Si conoces a alguna mujer que admires en programación o algún tema relacionado con tecnología, no dudes en agregarla a esta lista.</b>
+  <b>If you know a woman you admire in programming or any technology-related subject, feel free to add her to this list.</b>
 </div>
+
