@@ -5,7 +5,7 @@
 </div>
 
 ## Languages
- [Español][ES]
+ [Español](https://github.com/ErikGIovani/mujeres-en-tecnologia/blob/main/ES.md)
 
 ## C
 

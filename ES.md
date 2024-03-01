@@ -5,7 +5,7 @@
 </div>
 
 ## Idiomas
- [English][README]
+ [English](https://github.com/ErikGIovani/mujeres-en-tecnologia/blob/main/README.md)
 
 ## C
 
