@@ -15,10 +15,6 @@
 
 [Estefany Aguilar - Friend of CSS • Sr. Frontend Dev & Educator • Speaker at  • Ingeniera de Telecomunicaciones](https://twitter.com/teffcode)
 
-## L
-
-[Lea Verou - Miembro de la W3C y con casi veinte años de experiencia en diseño y desarrollo web.](https://lea.verou.me/)
-
 ## M
 
 [Miriam Gonzalez - Ingeniera software • Divulgadora de tecnología • Podcaster](https://miriamgonzalez.dev/)
